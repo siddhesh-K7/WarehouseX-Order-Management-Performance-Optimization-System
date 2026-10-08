@@ -71,11 +71,3 @@ To run tests:
 cd WarehouseX.Tests
 dotnet test
 ```
-
-## Final 25-Point Rubric Checklist
-
-- [x] **5 points** – Strategic performance optimization plan created (See `OptimizationStrategy.md`)
-- [x] **5 points** – Single revised SQL query optimized (See `OptimizedQuery.sql`)
-- [x] **5 points** – Application code optimized for performance (See `Services/OrderService.cs` and `Controllers/OrdersController.cs`)
-- [x] **5 points** – Runtime errors identified and resolved (See `Middleware/ExceptionHandlingMiddleware.cs` and `Services/OrderService.cs` validation)
-- [x] **5 points** – Reflective summary explaining Copilot's contribution (See `CopilotReflection.md`)
